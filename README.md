@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @acid0rain
-- 👀 I’m interested in ... App development, gaming, learning to code in order to create cool stuff
-- 🌱 I’m currently learning ... Python on sololearn and starting The Odin Project
-- 💞️ I’m looking to collaborate on ... Web development
-- 📫 How to reach me ... DM
-
+who me? Nothing, I'm just hanging around
 
 <!---
 acid0rain/acid0rain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
