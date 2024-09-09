@@ -1,4 +1,4 @@
-who me? Nothing, I'm just hanging around
+Mmm, nothing. Me? Just hanging around.
 
 <!---
 acid0rain/acid0rain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
